@@ -1,5 +1,5 @@
 {
-    "name": "simplesquid/nova-enum-field",
+    "name": "jeffersonsimaogoncalves/nova-enum-field",
     "description": "A Laravel Nova field to add enums to resources.",
     "keywords": [
         "simplesquid",
