@@ -15,7 +15,7 @@ Laravel Nova field to add enums to resources. This field uses the [BenSampo/lara
 You can install this package in a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require simplesquid/nova-enum-field
+composer require jeffersonsimaogoncalves/nova-enum-field
 ```
 
 ## Setup
